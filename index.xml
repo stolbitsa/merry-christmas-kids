@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>merry-christmas-kids</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="wellerman"/>
+  <readme>
+    <ru>ce2fb474ab151b03f6846f50f1d254fa3dd85db5556cd8fe0988f22969be7357</ru>
+    <en>cadbe60a3c9f9f77432fc93c5efbe03d44c10e396f27cf744b505750241d03f5</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_1.mp4" size="2289958" type="video/mp4" volume="0.598">bd56535f57b21d68794992c574c9abee824b6dd831811a3e90b6533810592a88</video>
+    <notes>
+      <note number="1" values="5" ticks="74" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="169" durationTicks="76" ppq="96" velocity="0.739"/>
+      <note number="3" values="18" ticks="266" durationTicks="59" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="332" durationTicks="27" ppq="96" velocity="0.719"/>
+      <note number="5" values="18" ticks="364" durationTicks="57" ppq="96" velocity="0.719"/>
+      <note number="6" values="7" ticks="426" durationTicks="33" ppq="96" velocity="0.719"/>
+      <note number="7" values="6" ticks="460" durationTicks="78" ppq="96" velocity="0.719"/>
+      <note number="8" values="6" ticks="554" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_2.mp4" size="3013308" type="video/mp4" volume="1">5b9c681c11f75fcbdaa37186cbb5124384c7641815bd370845481ed30c88f7ee</video>
+    <notes>
+      <note number="1" values="6" ticks="46" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="28" ticks="141" durationTicks="77" ppq="96" velocity="0.739"/>
+      <note number="3" values="28" ticks="238" durationTicks="59" ppq="96" velocity="0.719"/>
+      <note number="4" values="38" ticks="304" durationTicks="27" ppq="96" velocity="0.737"/>
+      <note number="5" values="28" ticks="336" durationTicks="57" ppq="96" velocity="0.719"/>
+      <note number="6" values="18" ticks="398" durationTicks="33" ppq="96" velocity="0.719"/>
+      <note number="7" values="7" ticks="432" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="8" values="5" ticks="526" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_3.mp4" size="2498998" type="video/mp4" volume="1">226cbb16bb426302112f9be1c791c17b751228293ea68f7845cc8e2aa7c34d9b</video>
+    <notes>
+      <note number="1" values="5" ticks="48" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="143" durationTicks="77" ppq="96" velocity="0.739"/>
+      <note number="3" values="38" ticks="240" durationTicks="59" ppq="96" velocity="0.719"/>
+      <note number="4" values="48" ticks="306" durationTicks="27" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="338" durationTicks="57" ppq="96" velocity="0.719"/>
+      <note number="6" values="28" ticks="400" durationTicks="33" ppq="96" velocity="0.719"/>
+      <note number="7" values="18" ticks="434" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="8" values="6" ticks="528" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_4.mp4" size="2834580" type="video/mp4" volume="1">6c645e26f5d09fb4a5421516db1afef3824f60946300002a67c3e1e1a17a0dde</video>
+    <notes>
+      <note number="1" values="5" ticks="49" durationTicks="44" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="112" durationTicks="34" ppq="96" velocity="0.739"/>
+      <note number="3" values="6" ticks="147" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="244" durationTicks="93" ppq="96" velocity="0.719"/>
+      <note number="5" values="7" ticks="340" durationTicks="96" ppq="96" velocity="0.719"/>
+      <note number="6" values="18" ticks="435" durationTicks="172" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_5.mp4" size="2364042" type="video/mp4" volume="1">7e086d094b55f7d0b4dcdb37094998812e9d9fa388597167c2e44f3106f9881a</video>
+    <notes>
+      <note number="1" values="5" ticks="92" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="187" durationTicks="81" ppq="96" velocity="0.732"/>
+      <note number="3" values="18" ticks="284" durationTicks="59" ppq="96" velocity="0.717"/>
+      <note number="4" values="28" ticks="350" durationTicks="27" ppq="96" velocity="0.717"/>
+      <note number="5" values="18" ticks="382" durationTicks="57" ppq="96" velocity="0.717"/>
+      <note number="6" values="7" ticks="444" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="7" values="6" ticks="478" durationTicks="75" ppq="96" velocity="0.717"/>
+      <note number="8" values="6" ticks="572" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_6.mp4" size="2453120" type="video/mp4" volume="1">98e2ee6d6fbcef88cee37a64a2fa42b148deb63f0951bc6f807c5df9e6b1d419</video>
+    <notes>
+      <note number="1" values="6" ticks="44" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="28" ticks="139" durationTicks="79" ppq="96" velocity="0.732"/>
+      <note number="3" values="28" ticks="236" durationTicks="59" ppq="96" velocity="0.717"/>
+      <note number="4" values="38" ticks="302" durationTicks="27" ppq="96" velocity="0.732"/>
+      <note number="5" values="28" ticks="334" durationTicks="57" ppq="96" velocity="0.717"/>
+      <note number="6" values="18" ticks="396" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="7" values="7" ticks="430" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="8" values="5" ticks="524" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_7.mp4" size="2338560" type="video/mp4" volume="1">981d9302ba5d73176ac5e2899aecfca83f60ceba569f0ac42a4e85cb92ebd4b0</video>
+    <notes>
+      <note number="1" values="5" ticks="42" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="137" durationTicks="74" ppq="96" velocity="0.732"/>
+      <note number="3" values="38" ticks="234" durationTicks="59" ppq="96" velocity="0.717"/>
+      <note number="4" values="48" ticks="300" durationTicks="27" ppq="96" velocity="0.717"/>
+      <note number="5" values="38" ticks="332" durationTicks="57" ppq="96" velocity="0.717"/>
+      <note number="6" values="28" ticks="394" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="7" values="18" ticks="428" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="8" values="6" ticks="522" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-merry-christmas-kids-tv_8.mp4" size="2472723" type="video/mp4" volume="1">44f4696b032344b24df678988d6a51c1ad94ea9484aa91fc5445a3bbcc7ecb08</video>
+    <notes>
+      <note number="1" values="5" ticks="47" durationTicks="44" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="110" durationTicks="34" ppq="96" velocity="0.732"/>
+      <note number="3" values="6" ticks="145" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="4" values="28" ticks="242" durationTicks="93" ppq="96" velocity="0.717"/>
+      <note number="5" values="7" ticks="338" durationTicks="96" ppq="96" velocity="0.717"/>
+      <note number="6" values="18" ticks="433" durationTicks="120" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+</level>
