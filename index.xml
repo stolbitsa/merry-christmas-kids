@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>merry-christmas-kids</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
     <ru>5d623aec33b1c2a71e8e956dca35f08226dacafa7312261dfb27966bb8ff34a8</ru>
@@ -48,14 +48,14 @@
     <bpm>145</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>6</tonalities>
-    <video name="20-merry-christmas-kids-tv_3.mp4" size="2498998" type="video/mp4" volume="0.536">226cbb16bb426302112f9be1c791c17b751228293ea68f7845cc8e2aa7c34d9b</video>
+    <video name="20-merry-christmas-kids-tv_3.mp4" size="2498998" type="video/mp4" volume="0.54">226cbb16bb426302112f9be1c791c17b751228293ea68f7845cc8e2aa7c34d9b</video>
     <notes>
       <note number="1" values="5" ticks="96" durationTicks="86" ppq="96" velocity="0.843"/>
       <note number="2" values="38" ticks="191" durationTicks="77" ppq="96" velocity="0.739"/>
-      <note number="3" values="38" ticks="288" durationTicks="59" ppq="96" velocity="0.719"/>
-      <note number="4" values="48" ticks="354" durationTicks="27" ppq="96" velocity="0.719"/>
-      <note number="5" values="38" ticks="386" durationTicks="57" ppq="96" velocity="0.719"/>
-      <note number="6" values="28" ticks="448" durationTicks="33" ppq="96" velocity="0.719"/>
+      <note number="3" values="38" ticks="288" durationTicks="48" ppq="96" velocity="0.719"/>
+      <note number="4" values="48" ticks="336" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="386" durationTicks="46" ppq="96" velocity="0.719"/>
+      <note number="6" values="28" ticks="432" durationTicks="45" ppq="96" velocity="0.719"/>
       <note number="7" values="18" ticks="482" durationTicks="95" ppq="96" velocity="0.719"/>
       <note number="8" values="6" ticks="576" durationTicks="95" ppq="96" velocity="0.719"/>
     </notes>
