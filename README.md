@@ -12,8 +12,8 @@ We wish you a merry Christmas
 We wish you a merry Christmas
 And a happy new year!
 
-We wish you a merry Christmas
-We wish you a merry Christmas
+Good tidings we bring
+To you and your kin
 We wish you a merry Christmas
 And a happy new year!
 
@@ -33,8 +33,8 @@ We wish you a merry Christmas
 We wish you a merry Christmas
 And a happy new year!
 
-We wish you a merry Christmas
-We wish you a merry Christmas
+Good tidings we bring
+To you and your kin
 We wish you a merry Christmas
 And a happy new year!
 
